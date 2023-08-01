@@ -16,7 +16,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Madone;Welcome+to+My+Profile!;Just+started+learning+programming;Always+learning+new+things+;Learning+C+Plusplus+basics;Want+to+learn+machine+learning;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=23&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Madone;Welcome+to+My+Profile!;Just+started+learning+programming;Always+learning+new+things+;Learning+C-Plusplus+basics;Want+to+learn+machine+learning;)](https://git.io/typing-svg)
 
 
 <!--   my-kaggle     
