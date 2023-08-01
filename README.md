@@ -10,13 +10,8 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=shicxin.shicxin" alt="visitors"/>   
 </p>
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-
-
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=23&color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Madone;Welcome+to+My+Profile!;Just+started+learning+programming;Always+learning+new+things+;Learning+C-Plusplus+basics;Want+to+learn+machine+learning;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=28&color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Madone;Welcome+to+My+Profile!;Just+started+learning+programming;Always+learning+new+things+;Learning+C-Plusplus+basics;Want+to+learn+machine+learning;)](https://git.io/typing-svg)
 
 
 <!--   my-kaggle     
