@@ -4,6 +4,8 @@
 <p align="center">
     <a href="https://github.com/shicxin/shicxin"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/C-99-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/C++-11-FF1493.svg"></a>
     <a href="https://github.com/shicxin/shicxin/graphs/contributors"><img src="https://img.shields.io/github/contributors/shicxin/shicxin?color=blue"></a>
     <a href="https://github.com/shicxin/shicxin/stargazers"><img src="https://img.shields.io/github/stars/shicxin/shicxin.svg?logo=github"></a>
     <a href="https://github.com/shicxin/shicxin/network/members"><img src="https://img.shields.io/github/forks/shicxin/shicxin.svg?color=blue&logo=github"></a>
